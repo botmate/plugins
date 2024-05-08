@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Sample Plugin",
-		"description": "This is a sample plugin",
+		"description": "This is a sample plugin for BotMate",
 		"repository": "https://github.com/botmate/sample-plugin.git"
 	}
 ]
