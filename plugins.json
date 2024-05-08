@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Sample Plugin",
+		"description": "This is a sample plugin",
+		"repository": "https://github.com/botmate/sample-plugin.git"
+	}
+]
